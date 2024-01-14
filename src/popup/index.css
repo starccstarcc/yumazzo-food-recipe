@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text-gradient {
+  background: -webkit-linear-gradient(316deg, #ffbf43 3.18%, #ff4869 102.04%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.chakra-select {
+  padding-top: 0px;
+  padding-left: 11px;
+  padding-right: 31px;
+}
