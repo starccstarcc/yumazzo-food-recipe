@@ -17,9 +17,6 @@ dependencies:
   '@emotion/styled':
     specifier: ^11.11.0
     version: 11.11.0(@emotion/react@11.11.3)(@types/react@18.0.29)(react@18.2.0)
-  '@marcius-capital/fonts':
-    specifier: ^1.0.2
-    version: 1.0.2
   country-flag-icons:
     specifier: ^1.5.9
     version: 1.5.9
@@ -1610,10 +1607,6 @@ packages:
       '@jridgewell/resolve-uri': 3.1.1
       '@jridgewell/sourcemap-codec': 1.4.15
     dev: true
-
-  /@marcius-capital/fonts@1.0.2:
-    resolution: {integrity: sha512-PwjKBvZvyCNoKBCFNzKmdNMD//ZLJmpXSRU/pM7Tv3/M1ku6AZWUvLqBFTQeYMY+g7qT51HWV6l7aof5csfZaQ==}
-    dev: false
 
   /@nodelib/fs.scandir@2.1.5:
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}

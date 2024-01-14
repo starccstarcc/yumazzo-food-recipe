@@ -4,9 +4,8 @@ import { ChakraProvider } from "@chakra-ui/react";
 import { theme } from "./theme";
 import Recipe from "./pages/Recipe";
 import Layout from "./layout";
-import "@marcius-capital/fonts";
-import "./index.css";
 import CreateRecipe from "./pages/CreateRecipe";
+import "./index.css";
 
 const root = createRoot(document.getElementById("root")!);
 
