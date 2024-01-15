@@ -36,7 +36,6 @@ export const fetchData = (url: string) => {
       revalidateOnFocus: false,
     }
   );
-  console.log(data);
   const resData = data?.message;
 
   return { data: resData, isValidating, mutate, error, isLoading };
@@ -51,7 +50,6 @@ export const postData = async (url: string, payload: any, type?: string) => {
       data: response.data,
     };
   } catch (error: any) {
-    console.log(error);
     return Promise.reject(error);
   }
 };

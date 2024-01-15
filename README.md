@@ -1,6 +1,6 @@
-# Chrome Extension Starter
+# Yumazzo food recipe
 
-Chrome extension starter template with React, TypeScript, Vite and Tailwind.
+Chrome extension for Yumazzo food recipe
 
 Built from [Chrome Extension Starter](https://github.com/chibat/chrome-extension-typescript-starter)
 

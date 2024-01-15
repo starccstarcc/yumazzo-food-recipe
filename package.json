@@ -1,5 +1,5 @@
 {
-  "name": "chrome-extension-starter",
+  "name": "yumazzo-food-recipe",
   "private": true,
   "type": "module",
   "packageManager": "pnpm@8.11.0",
